@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GabrielEspinozaR
+- 👋 Hi, I’m Gabriel
 - 👀 I’m interested in strucutral engineering
 - 🌱 I’m currently learning steel fibers reinforced concrete
 - 💞️ I’m looking to collaborate on strucutral engineering
